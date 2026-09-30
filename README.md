@@ -86,4 +86,4 @@ Like & comment feature
 Responsive UI
 
 Author
-Suhana Gupta (Priya)
+Suhana Gupta.
